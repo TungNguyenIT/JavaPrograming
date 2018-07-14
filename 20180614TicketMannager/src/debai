@@ -1,0 +1,11 @@
+﻿Quản lý bán vé sân vận động:
+Một sân vận động có 4 khán đài A, B, C, D. Mỗi khán đài có sức chữa 2500 chỗ ngồi.
+Khán đài A có 200 ghế VIP danh cho khách mời danh dự từ A1-A200. Còn lại là ghế phổ thông.
+Để xử lý nạn phe vé thì mỗi số CMND chỉ được mua 1 vé (tương ứng với mỗi nghế ngồi trên khán dài)
+Mỗi người không được phép mua nhiều hơn 1 vé. Mỗi ghế trên khán đài chỉ được phép bán cho 1 cổ động viện.
+Yêu cầu dây dựng chương trình quản lý vé theo mô hình MVC với các chắc năng.
+Thông tin giá vé, Giờ bóng lăn trong từng trận đấu được thiết lập trong file cấu hình (Có thể tùy biến file cấu hình sao cho hữu dụng nhất có thể)
+1. Thực hiện chức năng mua vé
+2. Thực hiện chức năng đổi vé.
+3. Thực hiện chức năng trả vé. (Chỉ được trả vé trước 48 giờ so với giờ bóng lăn)
+4. Hiện thị số vé đã bán & tổng số tiền đã thu được.
